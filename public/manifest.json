@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "SwiftMemo",
+  "version": "1.0.0",
+  "description": "Simple persistent notes extension",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
