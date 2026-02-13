@@ -84,7 +84,7 @@ SwiftMemo stores notes only inside your browser using:
 No personal data is collected, transmitted, or shared.
 
 Full privacy policy:  
-**(add your hosted privacy policy URL here)**
+**[https://utkarshk95.github.io/swiftmemo-privacy/]**
 
 ---
 
